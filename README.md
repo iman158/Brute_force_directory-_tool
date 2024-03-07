@@ -2,6 +2,10 @@ Directory Brute-Force Tool
 Overview
 
 This Python script is a simple yet effective directory brute-force tool designed for web application penetration testing. Using a provided wordlist, it systematically checks a target URL for the existence of directories and files, helping identify hidden paths and potential security vulnerabilities.
+You can use https://github.com/danielmiessler/SecLists.git for getting data with improved wordlists or create your own wordlist
+
+
+
 Features
 
     Customizable Wordlist: Utilize a wordlist of your choice to tailor the brute-force attack to your target's potential directory and file structure.
